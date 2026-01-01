@@ -40,15 +40,6 @@ The UI is built with Streamlit because it’s quick to iterate and good enough f
 - Clear success/error reporting per file
 - Export results as CSV
 
-## Project Structure
-
-portfolio-metrics-assistant/
-├── app.py # Streamlit UI
-├── extractor.py # PDF parsing + LLM extraction logic
-├── requirements.txt
-├── .env.example
-└── README.md
-
 ## Running It Locally
 
 Create a virtual environment and install dependencies:
